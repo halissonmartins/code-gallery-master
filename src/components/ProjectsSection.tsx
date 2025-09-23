@@ -22,6 +22,11 @@ const projects = [
     title: "Ticketing Microsserviços",
     description: "Crie, implante e dimensione um aplicativo de comércio eletrônico usando microsserviços criados com Node, React, Docker e Kubernetes",
     link: "https://github.com/halissonmartins/ticketing"
+  },
+  {
+    title: "Spring, Testcontainers, RabbitMQ, Kafka and Cucumber",
+    description: "This project is a minimal integration test example that demonstrates how to combine: JDK 25, Spring Boot, Spring JPA, Oracle, Kafka, RabbitMQ, Testcontainers, Cucumber and JUnit 5.",
+    link: "https://github.com/halissonmartins/spring-jpa-testcontainers-rabbitmq-kafka-oracle-cucumber"
   }
 ];
 
