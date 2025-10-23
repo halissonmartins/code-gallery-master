@@ -27,6 +27,11 @@ const projects = [
     title: "Spring, Testcontainers, RabbitMQ, Kafka and Cucumber",
     description: "This project is a minimal integration test example that demonstrates how to combine: JDK 25, Spring Boot, Spring JPA, Oracle, Kafka, RabbitMQ, Testcontainers, Cucumber and JUnit 5.",
     link: "https://github.com/halissonmartins/spring-jpa-testcontainers-rabbitmq-kafka-oracle-cucumber"
+  },
+  {
+    title: "CDC with Debezium, TestContainers, Cumbuber, Maven Profile",
+    description: "This project demonstrates how to implement Change Data Capture (CDC) using Apache Kafka and Debezium. It leverages Testcontainers to provide reliable and isolated integration testing environments, Cucumber for behavior-driven development (BDD) testing, Spring Boot for streamlined application configuration and Maven Profiles for flexible build management.",
+    link: "https://github.com/halissonmartins/cdc-with-kafka-debezium-testcontainers-cumbuber-spring-profile"
   }
 ];
 
