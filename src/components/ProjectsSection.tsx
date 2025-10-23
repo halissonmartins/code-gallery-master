@@ -25,8 +25,7 @@ const projects = [
   },
   {
     title: "Spring, Testcontainers, RabbitMQ, Kafka and Cucumber",
-    description: "Este projeto é um exemplo mínimo de teste de integração que demonstra como combinar: JDK 25, Spring Boot, Spring JPA, Oracle, Kafka, RabbitMQ, Testcontainers, Cucumber e JUnit 5.
-",
+    description: "Este projeto é um exemplo mínimo de teste de integração que demonstra como combinar: JDK 25, Spring Boot, Spring JPA, Oracle, Kafka, RabbitMQ, Testcontainers, Cucumber e JUnit 5.",
     link: "https://github.com/halissonmartins/spring-jpa-testcontainers-rabbitmq-kafka-oracle-cucumber"
   },
   {
